@@ -167,7 +167,7 @@ export const DATA = {
       dates: "2022",
       active: true,
       description:
-        "Built and ran Novelly's equity-centered remote internship program from the ground up, managing nine interns across nine disciplines. The program was built on the belief that interns deserve to be treated as emerging leaders, not task-fillers. Flexible scheduling, 1:1 mentorship, real project ownership, and monthly career coaching produced exit interviews with lines like "I'm no longer afraid of not knowing how to do something." A facilitated team retreat produced Novelly's first-ever Culture Handbook, capturing the shared values and collaboration norms the program ran on.",
+        "Built and ran Novelly's equity-centered remote internship program from the ground up, managing nine interns across nine disciplines. The program was built on the belief that interns deserve to be treated as emerging leaders, not task-fillers. Flexible scheduling, 1:1 mentorship, real project ownership, and monthly career coaching produced exit interviews with lines like \"I'm no longer afraid of not knowing how to do something.\" A facilitated team retreat produced Novelly's first-ever Culture Handbook, capturing the shared values and collaboration norms the program ran on.",
       technologies: ["Operations", "Programs"],
       links: [
         { type: "Culture Handbook", href: "https://canva.link/ljfap3mf14ws7bu", icon: <Icons.globe className="size-3" /> },
