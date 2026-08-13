@@ -25,7 +25,7 @@ export const DATA = {
       order: 6, enabled: true,
       label: "Get in Touch",
       heading: "Contact",
-      text: "Send me a note. I'd love to hear what you're building.",
+      text: "Send me a message. I'd love to hear what you're building.",
     },
   },
   photos: [],
