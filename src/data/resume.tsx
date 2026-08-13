@@ -23,7 +23,7 @@ export const DATA = {
     },
     contact: {
       order: 6, enabled: true,
-      label: "Get in Touch",
+      label: "⌯⌲",
       heading: "Contact",
       text: "Send me a message. I'd love to hear what you're building.",
     },
